@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+Lib
+Scripts
+test
+ctemp
+__pycache__
+pyvenv.cfg

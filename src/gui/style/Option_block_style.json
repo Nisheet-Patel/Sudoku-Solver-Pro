@@ -1,0 +1,29 @@
+{
+  "Main": {
+    "bg": "white"
+  },
+
+  "Title": {
+    "fg": "#0072e3",
+    "bg": "white",
+    "font": "bold 45"
+  },
+
+  "Option_Frame": {
+    "relief": "flat",
+    "bg_color": "white",
+    "pady": 10
+  },
+
+  "Option_Button": {
+    "width": 10,
+    "relief": "flat",
+    "font_color": "#0072e3",
+    "bg_color": "#eaeef4",
+    "Active_bg_color": "white",
+    "Active_fg_color": "#0072e3",
+    "on_collision": "#ced6e0",
+    "padx": 10,
+    "pady": 10
+  }
+}
