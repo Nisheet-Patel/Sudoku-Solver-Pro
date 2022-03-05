@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro">
-    <img src="https://user-images.githubusercontent.com/62321150/156771964-3c67ccca-7808-4710-bef4-a91d8fc799a1.png" alt="logo" width="65">
+    <img src="https://user-images.githubusercontent.com/62321150/156771964-3c67ccca-7808-4710-bef4-a91d8fc799a1.png" alt="logo" width="100">
   </a>
 <h2 aling="center">Sudoku Solver Pro</h2>
   <p align="center">
@@ -42,7 +42,7 @@ You can input a sudoku puzzle from any website and the solver will solve it for 
 <br>
 
 # Installation
-<p>If git is not installed on your PC then you can <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro/archive/refs/heads/master.zip">Download .zip</a> Or <a href="">Download .exe</a></p>
+<p>If git is not installed on your PC then you can <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro/archive/refs/heads/master.zip">Download .zip</a> Or <a href="https://mega.nz/file/tIgk2DCb#SjTqtHEAbN48y9aJH0dpZLuSfE7oyBXKt9gahqFWjc4">Download .exe</a></p>
 
 1. Clone the repo
    ```sh
