@@ -7,7 +7,7 @@
   </a>
 <h2 aling="center">Sudoku Solver Pro</h2>
   <p align="center">
-    <a href="">View Demo</a>
+    <a href="https://youtu.be/X6huKg_nkbw?t=60">View Demo</a>
     ·
     <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro/issues">Report Bug</a>
   </p>
@@ -27,7 +27,7 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/62321150/156773045-53b275a6-a980-46f3-b570-7429ab087af8.png)
 
-Sudoku Solver Pro is built with the Tkinter module. It has many <a href="#Features">features</a> like Backtracking Algorithm visualisation, BOT that can auto type sudoku solution, If you want to play then it can generate sudoku puzzles with Easy or Hard difficulty and you can also take a Hint.
+Sudoku Solver Pro is built with the Tkinter module. It has many <a href="#Features">features</a> like Backtracking Algorithm visualization, BOT that can auto type sudoku solution, If you want to play then it can generate sudoku puzzles with Easy or Hard difficulty and you can also take a Hint.
 
 You can input a sudoku puzzle from any website and the solver will solve it for you. Then you can use the Bot function that will auto type puzzle solutions on that website or app.
 
@@ -42,7 +42,7 @@ You can input a sudoku puzzle from any website and the solver will solve it for 
 <br>
 
 # Installation
-<p>If git is not installed on your PC then you can <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro/archive/refs/heads/master.zip">Download .zip</a> Or <a href="https://mega.nz/file/tIgk2DCb#SjTqtHEAbN48y9aJH0dpZLuSfE7oyBXKt9gahqFWjc4">Download .exe</a></p>
+<p>If git is not installed on your PC then you can <a href="https://github.com/NisheetNakrani/Sudoku-Solver-Pro/archive/refs/heads/master.zip">Download .zip</a> Or <a href="https://mega.nz/file/tIgk2DCb#SjTqtHEAbN48y9aJH0dpZLuSfE7oyBXKt9gahqFWjc4">Download .exe</a> | If you face any problem will installing <a href="https://youtu.be/X6huKg_nkbw">watch this video</a></p>
 
 1. Clone the repo
    ```sh
